@@ -39,3 +39,4 @@ Run the above command to start the test module.
 ![](HabitTrackingApp1.png)
 ![](HabitTrackingApp2.png)
 ![](HabitTrackingApp3.png)
+![](HabitTrackingApp4.png)
