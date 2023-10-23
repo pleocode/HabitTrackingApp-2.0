@@ -35,3 +35,7 @@ To navigate on the App, use the arrow keys on your keyboard.
 pytest .
 ```
 Run the above command to start the test module.
+
+![](HabitTrackingApp1.png)
+![](HabitTrackingApp2.png)
+![](HabitTrackingApp3.png)
